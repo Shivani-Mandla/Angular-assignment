@@ -2,9 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
+# Installation Steps
+
+Clone the repository using command `git clone https://github.com/Shivani-Mandla/Angular-assignment.git`.
+Goto the Angular-assignment path and install dependencies(Node Modules) with command `npm install`.
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` or `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
